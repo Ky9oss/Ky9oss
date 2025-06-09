@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [写在开始](http://120.46.169.136/ky9oss/about/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**联系我**
