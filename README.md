@@ -8,7 +8,7 @@
 
 📕 &nbsp;**最新博客**
 <!-- BLOG-POST-LIST:START -->
-
+- [写在开始](http://120.46.169.136/ky9oss/about/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**联系我**
