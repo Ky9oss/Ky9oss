@@ -1,4 +1,6 @@
 ### 你好 <a href="http://120.46.169.136/ky9oss/about/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+> 出于安全性考虑，部分工具不再开源核心代码，如有需求，请直接联系我本人。希望您能理解！
+
 很高兴认识你！
 
 - 🔭 &nbsp;我是一位红队工程师/恶意软件开发工程师/渗透测试工程师/逆向分析工程师，也是一位资深的Rust开发者
