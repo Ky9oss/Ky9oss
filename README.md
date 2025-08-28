@@ -1,8 +1,6 @@
 ### 你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 > [!IMPORTANT]
-> 本人没有参与任何hvv，请勿溯源至本人！  
-
-> [!Tip]
+> **本人没有参与任何hvv，请勿溯源至本人！**  
 > 出于安全性考虑，部分工具不再开源，如有需求，请直接联系我本人。
 
 - 🔭 &nbsp;我是一位红队渗透工程师/恶意软件开发工程师/逆向分析工程师/全栈开发者
