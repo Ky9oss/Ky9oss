@@ -12,9 +12,9 @@
 ![](https://github-vistors-counter.onrender.com/github?username=Ky9oss&style=for-the-badge&color=00C853)
 </div>
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-🔭  I am a Red Team penetration engineer / malware developer / reverse engineering engineer / vulnerability researcher.
+🔭  I am a Red Team operator / malware developer / reverse engineering engineer / security researcher.
 
 💬  I am confident in my technical skills and look forward to discussing technology with you in depth.
 
