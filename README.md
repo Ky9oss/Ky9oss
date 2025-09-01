@@ -12,7 +12,7 @@
 ![](https://github-vistors-counter.onrender.com/github?username=Ky9oss&style=for-the-badge&color=00C853)
 </div>
 
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hey there! 
 
 🔭  I am a Red Team operator / malware developer / reverse engineering engineer / security researcher.
 
@@ -20,8 +20,8 @@
 
 ⚡  Check out my blog 👇, where I continuously share my technical experience.
 
-## 🌐 &nbsp;**Connect & Collaborate**
-- Email: Ky9oss@163.com
+## 🌐 Connect & Collaborate
+🔗  Email: Ky9oss@163.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00ff00&height=120&section=footer&text=HACK%20THE%20PLANET&fontSize=30&fontColor=00ff00&animation=twinkling" />
 </div>
