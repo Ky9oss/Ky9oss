@@ -14,11 +14,11 @@
 
 ## <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a> Hey there! 
 
-🔭  I am a Red Team operator / malware developer / reverse engineering engineer / security researcher.
+🔭  I'm a red team operator / malware developer / reverse engineer / security researcher.
 
-💬  I am confident in my technical skills and look forward to discussing technology with you in depth.
+⚡  I’m also a developer skilled in several languages, usually playing around with Rust, C#, and Lua to build “small stuff.”
 
-⚡  Check out my blog 👇, where I continuously share my technical experience.
+💬  I’m confident in my technical skills and look forward to diving deep into technology discussions with you.
 
 ## 🌐 Connect & Collaborate
 🔗  Email: Ky9oss@163.com
