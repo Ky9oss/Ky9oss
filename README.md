@@ -22,6 +22,8 @@
 
 ## 🌐 Connect & Collaborate
 🔗  Email: Ky9oss@163.com
+🎬  Blog: http://120.46.169.136/
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0x00ff00&height=120&section=footer&text=HACK%20THE%20PLANET&fontSize=30&fontColor=00ff00&animation=twinkling" />
 </div>
