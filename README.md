@@ -20,6 +20,10 @@
 
 💬  I’m confident in my technical skills and look forward to diving deep into technology discussions with you.
 
+![Ky9oss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ky9oss&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
+
 ## 🌐 Connect & Collaborate
 🔗  Email: Ky9oss@163.com  
 
